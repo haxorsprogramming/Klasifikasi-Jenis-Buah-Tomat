@@ -1,0 +1,7 @@
+flask
+numpy
+pandas
+seaborn
+matplotlib
+openpyxl
+tensorflow<2.11
