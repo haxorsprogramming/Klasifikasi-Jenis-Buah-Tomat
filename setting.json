@@ -1,0 +1,6 @@
+{
+  "BASE_URL" : "http://127.0.0.1:7002",
+  "PORT" : "7001",
+  "DEVELOPER_NAME" : "Aditia Darma Nasution",
+  "UPLOAD_FOLDER" : "data_upload"
+}
